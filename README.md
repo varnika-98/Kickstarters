@@ -1,2 +1,2 @@
 # Kickstarters
-## testing push
+## In this project, I explored the factors that influence the success or failure of Kickstarter campaigns, using a dataset from Kaggle. I performed data cleaning and transformation using Python, and created various dictionaries to store relevant information. I then used Python libraries such as Bokeh and Pandas to create interactive visualizations, such as pie charts, bubble charts, heat maps, and bar charts, to display the results of my analysis. I found that some of the key factors that affect Kickstarter outcomes are the category, the goal amount, the duration, and the launch month of the campaign.
